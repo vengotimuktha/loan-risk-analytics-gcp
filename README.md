@@ -66,5 +66,5 @@ This is a documentation-based project for portfolio/demo purposes. If you'd like
 ## Author
 
 **Mukthasree Vengoti**  
-Data Analytics & Visualization | Google Cloud Certified  
+Google Cloud Data Analytics | Google Cloud Certified  
 [LinkedIn Profile](https://www.linkedin.com/in/mukthasree-vengoti/)
