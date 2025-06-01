@@ -86,7 +86,7 @@ This project demonstrated the ability to:
 
 ## Certificate
 
-This project was completed under the official [Google Cloud Data Analytics Certificate](google_cloud_data_analytics_certificateg.png).
+This project was completed under the official [Google Cloud Data Analytics Certificate](google_cloud_data_analytics_certificate.png).
 
 ---
 
