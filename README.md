@@ -51,7 +51,8 @@ Built an executive-level dashboard in Looker to support Treasury KPIs:
 - Table: Homeowners with active loans
 - Enabled **cross-filtering** and **auto-refresh** for interactivity
 
->  [View Sample Dashboard Screenshot](Looker_Dashboard_Image.png)
+![Sample Dashboard Screenshot](Looker_Dashboard_Image.png)
+
 
 ---
 
